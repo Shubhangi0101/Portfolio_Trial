@@ -1,0 +1,12 @@
+div{height: 100px}
+.first{background-color: red
+}
+.second{background-color: blue;
+width: 20%;
+display: inline-block;
+}
+.third{background-color: green;
+width: 20%;
+display: inline-block;
+}
+#container{text-align: center;}
